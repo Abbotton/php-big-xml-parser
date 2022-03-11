@@ -1,6 +1,6 @@
 {
 	"name": "abbotton/php-big-xml-parser",
-	"description": "使用PHP SAX XML解析大型XML文件",
+	"description": "使用PHP SAX Parser解析大型XML文件",
 	"keywords": [
 		"abbotton",
 		"SAX XML",
